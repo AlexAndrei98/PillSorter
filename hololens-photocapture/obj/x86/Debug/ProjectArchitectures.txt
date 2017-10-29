@@ -1,0 +1,4 @@
+C:\Users\boellis\Desktop\1\hololens-photocapture\hololens-photocapture.csproj;x86
+C:\Users\boellis\Desktop\hololens-photocapture-master\0\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\boellis\Desktop\hololens-photocapture-master\0\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\boellis\Desktop\hololens-photocapture-master\0\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
