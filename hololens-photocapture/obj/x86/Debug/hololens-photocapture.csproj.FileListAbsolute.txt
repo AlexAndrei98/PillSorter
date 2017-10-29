@@ -1,5 +1,3 @@
-C:\Users\boellis\Desktop\1\hololens-photocapture\obj\x86\Debug\hololens-photocapture.csprojResolveAssemblyReference.cache
-C:\Users\boellis\Desktop\1\hololens-photocapture\obj\x86\Debug\hololens-photocapture.csproj.CoreCompileInputs.cache
 C:\Users\boellis\Desktop\1\hololens-photocapture\bin\x86\Debug\hololens-photocapture.exe
 C:\Users\boellis\Desktop\1\hololens-photocapture\bin\x86\Debug\hololens-photocapture.pdb
 C:\Users\boellis\Desktop\1\hololens-photocapture\bin\x86\Debug\resources.pri
@@ -156,6 +154,8 @@ C:\Users\boellis\Desktop\1\hololens-photocapture\bin\x86\Debug\BridgeInterface.p
 C:\Users\boellis\Desktop\1\hololens-photocapture\bin\x86\Debug\UnityEngineDelegates.dll
 C:\Users\boellis\Desktop\1\hololens-photocapture\bin\x86\Debug\UnityEngineDelegates.pdb
 C:\Users\boellis\Desktop\1\hololens-photocapture\bin\x86\Debug\UnityEngineProxy.pdb
+C:\Users\boellis\Desktop\1\hololens-photocapture\obj\x86\Debug\hololens-photocapture.csprojResolveAssemblyReference.cache
+C:\Users\boellis\Desktop\1\hololens-photocapture\obj\x86\Debug\hololens-photocapture.csproj.CoreCompileInputs.cache
 C:\Users\boellis\Desktop\1\hololens-photocapture\obj\x86\Debug\hololens-photocapture.exe
 C:\Users\boellis\Desktop\1\hololens-photocapture\obj\x86\Debug\hololens-photocapture.pdb
 C:\Users\boellis\Desktop\1\hololens-photocapture\obj\x86\Debug\ResourceHandlingTask.state
